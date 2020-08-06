@@ -1,0 +1,39 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Gradle template
+.gradle
+**/build/
+!src/**/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+
+.gitignore
+.gradle/4.10.1/
+.gradle/4.10.2/
+.gradle/5.4.1/
+.gradle/5.6.4/
+.gradle/6.1.1/fileContent/
+.gradle/6.1.1/fileHashes/resourceHashesCache.bin
+.gradle/6.1.1/javaCompile/
+.gradle/6.1.1/vcsMetadata-1/
+build/
+src/main/java/kim/domain/
+src/main/resources/
+src/test/resources/
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
